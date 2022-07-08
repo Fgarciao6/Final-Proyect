@@ -40,7 +40,10 @@ The project is straightforward to install, use & modify:
 . Fork & clone the entire repo on your hard-drive
 . Download the main dataset:
    .https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+   
+   
 . Run the Jupyter notebook (.ipynb) in your preferred Python IDE
+
 . Explore the Tableau visuals by visiting the public directory and/or use the provided Tableau .twbx files to play with the visualizations on your own
    .https://public.tableau.com/authoring/FinalProyect_16572831980790/Dashboard3#1
 
