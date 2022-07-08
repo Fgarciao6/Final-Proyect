@@ -46,6 +46,8 @@ The project is straightforward to install, use & modify:
 
 . Explore the Tableau visuals by visiting the public directory and/or use the provided Tableau .twbx files to play with the visualizations on your own
    .https://public.tableau.com/authoring/FinalProyect_16572831980790/Dashboard3#1
+   
+. Presentation of this Proyect has been explained in: https://slides.com/federicovicentegarciaochoa/ellipse/edit
 
 5. Copyright
 
