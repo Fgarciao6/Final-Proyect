@@ -52,7 +52,9 @@ The project is straightforward to install, use & modify:
 While the data used & tools are free-to-use & open-source, I will appreciate if the below credits are mentioned if you find using my work & time devoted to this project useful, and you intend to share it in full/parts publicly:
 
    . Author: Federico García Ochoa
+   
    . LinkedIn: https://www.linkedin.com/in/federico-garcía-ochoa-61883874
+   
    . Github: https://github.com/Fgarciao6/
    
 
